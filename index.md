@@ -1,4 +1,6 @@
 # Nik Clark Math4610
 # Fall 2019
 
-This is some basic text.
+Here's a link for my homework.
+
+Here's a link for my software manual.
