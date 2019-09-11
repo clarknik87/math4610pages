@@ -2,7 +2,15 @@
 # Fall 2019
 
 ## Tasksheet Links
-* [task1.4](https://github.com/clarknik87/math4610/blob/master/homework1/task1_4.cpp)
-
+	*[tasksheet1](www.google.com)
+	*[tasksheet2](www.google.com)
+	*[tasksheet3](www.google.com)
+	*[tasksheet4](www.google.com)
+	*[tasksheet5](www.google.com)
+	*[tasksheet6](www.google.com)
+	*[tasksheet7](www.google.com)
+	*[tasksheet8](www.google.com)
+	*[tasksheet9](www.google.com)
+	*[tasksheet10](www.google.com)
 ## Software Manual
-Here's a link for my software manual.
+	*[software manual](www.google.com)
