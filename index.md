@@ -14,5 +14,5 @@
 * [tasksheet10](https://github.com/clarknik87/math4610/tree/master/tasks/tasksheet10.md)
 
 ## Software Manual
-* [software manual](https://github.com/clarknik87/math4610/tree/master/software_manual)
+* [software manual](https://github.com/clarknik87/math4610/tree/master/software_manual.md)
 
